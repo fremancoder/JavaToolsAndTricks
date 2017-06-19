@@ -1,0 +1,7 @@
+JavaToolsAndTricks
+==================
+Most of the content in this project is taken from the internet, because sites happen to disappear and my memory is not as strong as it used to be, I create small projects of code which I might need on future projects.
+
+I will add a list of the sites on which I found the various info here:
+
+* http://howtodoinjava.com/security/how-to-generate-secure-password-hash-md5-sha-pbkdf2-bcrypt-examples/
